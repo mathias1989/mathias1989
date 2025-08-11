@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mathias1989
-- 👀 I’m interested in DEVOPS related tools
-- 🌱 I’m currently learning CICD
+- 👀 I’m interested in DEVOPS
 - 📫 How to reach me mathias89@azet.sk
 
 <!---
